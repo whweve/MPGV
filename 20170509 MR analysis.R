@@ -1,4 +1,5 @@
-# =================================== load library ============================================= 
+#' @title A R-based script to compute the statical significance using MR.
+#' @author Hongwei Wang <\email{whweve@163.com}> =================================== load library ============================================= 
 library(data.table)
 library(sqldf)
 library(speedglm)
